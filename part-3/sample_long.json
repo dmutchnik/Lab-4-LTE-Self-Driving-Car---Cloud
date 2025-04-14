@@ -1,0 +1,202 @@
+[
+    {
+        "device": {
+            "id": "12346",
+            "type": "sensor",
+            "location": "kitchen"
+        },
+        "readings": [
+            {
+                "timestamp": "2023-10-01T10:00:00Z",
+                "temperature": 21.5,
+                "humidity": 50
+            },
+            {
+                "timestamp": "2023-10-01T11:00:00Z",
+                "temperature": 22.0,
+                "humidity": 48
+            }
+        ],
+        "status": "active"
+    },
+    {
+        "device": {
+            "id": "12347",
+            "type": "sensor",
+            "location": "bedroom"
+        },
+        "readings": [
+            {
+                "timestamp": "2023-10-01T10:00:00Z",
+                "temperature": 20.0,
+                "humidity": 55
+            },
+            {
+                "timestamp": "2023-10-01T11:00:00Z",
+                "temperature": 20.5,
+                "humidity": 53
+            }
+        ],
+        "status": "inactive"
+    },
+    {
+        "device": {
+            "id": "12348",
+            "type": "sensor",
+            "location": "garage"
+        },
+        "readings": [
+            {
+                "timestamp": "2023-10-01T10:00:00Z",
+                "temperature": 18.0,
+                "humidity": 60
+            },
+            {
+                "timestamp": "2023-10-01T11:00:00Z",
+                "temperature": 18.5,
+                "humidity": 58
+            }
+        ],
+        "status": "active"
+    },
+    {
+        "device": {
+            "id": "12349",
+            "type": "sensor",
+            "location": "office"
+        },
+        "readings": [
+            {
+                "timestamp": "2023-10-01T10:00:00Z",
+                "temperature": 23.5,
+                "humidity": 40
+            },
+            {
+                "timestamp": "2023-10-01T11:00:00Z",
+                "temperature": 24.0,
+                "humidity": 38
+            }
+        ],
+        "status": "active"
+    },
+    {
+        "device": {
+            "id": "12350",
+            "type": "sensor",
+            "location": "bathroom"
+        },
+        "readings": [
+            {
+                "timestamp": "2023-10-01T10:00:00Z",
+                "temperature": 25.0,
+                "humidity": 70
+            },
+            {
+                "timestamp": "2023-10-01T11:00:00Z",
+                "temperature": 25.5,
+                "humidity": 68
+            }
+        ],
+        "status": "inactive"
+    },
+    {
+        "device": {
+            "id": "12351",
+            "type": "sensor",
+            "location": "attic"
+        },
+        "readings": [
+            {
+                "timestamp": "2023-10-01T10:00:00Z",
+                "temperature": 19.0,
+                "humidity": 65
+            },
+            {
+                "timestamp": "2023-10-01T11:00:00Z",
+                "temperature": 19.5,
+                "humidity": 63
+            }
+        ],
+        "status": "active"
+    },
+    {
+        "device": {
+            "id": "12352",
+            "type": "sensor",
+            "location": "basement"
+        },
+        "readings": [
+            {
+                "timestamp": "2023-10-01T10:00:00Z",
+                "temperature": 17.0,
+                "humidity": 75
+            },
+            {
+                "timestamp": "2023-10-01T11:00:00Z",
+                "temperature": 17.5,
+                "humidity": 73
+            }
+        ],
+        "status": "inactive"
+    },
+    {
+        "device": {
+            "id": "12353",
+            "type": "sensor",
+            "location": "garden"
+        },
+        "readings": [
+            {
+                "timestamp": "2023-10-01T10:00:00Z",
+                "temperature": 15.0,
+                "humidity": 80
+            },
+            {
+                "timestamp": "2023-10-01T11:00:00Z",
+                "temperature": 15.5,
+                "humidity": 78
+            }
+        ],
+        "status": "active"
+    },
+    {
+        "device": {
+            "id": "12354",
+            "type": "sensor",
+            "location": "balcony"
+        },
+        "readings": [
+            {
+                "timestamp": "2023-10-01T10:00:00Z",
+                "temperature": 22.0,
+                "humidity": 47
+            },
+            {
+                "timestamp": "2023-10-01T11:00:00Z",
+                "temperature": 22.5,
+                "humidity": 45
+            }
+        ],
+        "status": "active"
+    },
+    {
+        "device": {
+            "id": "12355",
+            "type": "sensor",
+            "location": "hallway"
+        },
+        "readings": [
+            {
+                "timestamp": "2023-10-01T10:00:00Z",
+                "temperature": 21.0,
+                "humidity": 52
+            },
+            {
+                "timestamp": "2023-10-01T11:00:00Z",
+                "temperature": 21.5,
+                "humidity": 50
+            }
+        ],
+        "status": "inactive"
+    }
+]
